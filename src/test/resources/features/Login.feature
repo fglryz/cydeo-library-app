@@ -1,5 +1,5 @@
 Feature: Login app login  feature
-  As a user,I shouls be able to login with correct credentials to different accounts
+  As a user,I should be able to login with correct credentials to different accounts
 
   Background: Assuming user is on the login page
     Given user on the login page
